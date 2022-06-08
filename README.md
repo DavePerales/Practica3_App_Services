@@ -1,8 +1,8 @@
 # Práctica 3
 
-## Table of Contents
+## Tabla de contenidos
 - [Práctica 3](#práctica-3)
-  - [Table of Contents](#table-of-contents)
+  - [Tabla de contenidos](#tabla-de-contenidos)
   - [Objetivo](#objetivo)
   - [Procedimiento](#procedimiento)
 
@@ -33,18 +33,17 @@ Crear una página web a través de Azure App Service.
 
 ![Repositorio](imgs/01.png)
 
+10. Nos dirigimos a la aplicación web creada y nos dirigimos a **Centros de implementación**
 
+![Centros de implementación](imgs/02.png)
 
+11. Iniciamos sesión en GitHub y seleccionamos el repositorio y la rama que contiene el código que queremos cargar en nuestra página y damos click en **Guardar**.
 
+![Configuración de la cuenta GitHub](imgs/03.png)
 
-1.  Iniciamos sesión con el usuario y contraseña que configuramos en el **paso 7**.
+12.  Accedemos al enlace de nuestra [página web](https://paginaweb-dpr.azurewebsites.net). 
 
-2.  Abrimos el _Simbolo del sistema (CMD)_ y escribimos el siguiente comando:
->
->mstsc /v: Dirección IP de la segunda máquina virtual
->
-
-
+![Página web](imgs/04.png)
 
 
 
